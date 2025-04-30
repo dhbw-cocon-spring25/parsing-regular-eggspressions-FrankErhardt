@@ -61,7 +61,7 @@ public class RecursiveDescentRedeggsParserTest {
 
 		@Override
 		public List<CodePointRange> sortedCodePointRanges() {
-			return null;
+			return ranges;
 		}
 	}
 
